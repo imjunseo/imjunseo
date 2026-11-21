@@ -4,7 +4,7 @@
 
 | 프로젝트 | 확인할 수 있는 내용 |
 | --- | --- |
-| [중고차 가격 예측](https://github.com/imjunseo/used-car-price-prediction) | Craigslist 등록 가격을 예측하는 팀 프로젝트. 전처리, 회귀 모델 비교, 오차 분석 |
+| [중고차 가격 예측](https://github.com/imjunseo/used-car-price-prediction) | Craigslist 등록 가격을 예측하는 개인 프로젝트. 전처리, 회귀 모델 비교, 오차 분석 |
 | [네트워크 계산기](https://github.com/imjunseo/network-calculator) | Java TCP 클라이언트·서버, 스레드 풀, 텍스트 요청·응답 프로토콜 |
 | [웹캠 손 제스처 인식](https://github.com/imjunseo/Recognize-gesture-with-OpenCV) | OpenCV와 MediaPipe를 활용한 손 랜드마크 기반 제스처 분류 |
 | [프로그래밍 언어 소개 웹](https://github.com/imjunseo/programming-language-intro-web) | HTML·CSS·JavaScript와 Netlify를 사용한 팀 웹 프로젝트 |
